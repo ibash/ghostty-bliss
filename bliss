@@ -1,0 +1,28 @@
+# Ghostty bliss theme
+# This is ported from kitty bliss theme. Which is ported from an iterm2 theme.
+# https://github.com/ejohnso49/bliss-kitty-theme
+# https://github.com/joshjon/bliss-iterm
+# MIT license
+
+palette = 0=#000000
+palette = 1=#ff6f8d
+palette = 2=#93ff8d
+palette = 3=#fffc9b
+palette = 4=#a198ff
+palette = 5=#ff95df
+palette = 6=#95dfff
+palette = 7=#c7c7c7
+palette = 8=#676767
+palette = 9=#ff7894
+palette = 10=#9aff95
+palette = 11=#fffda9
+palette = 12=#aea6ff
+palette = 13=#ffa2e3
+palette = 14=#a5def7
+palette = 15=#feffff
+background = #16181f
+foreground = #eaeaea
+cursor-color = #c7c7c7
+cursor-text = #2b2b2b
+selection-background = #55596d
+selection-foreground = #feffff
